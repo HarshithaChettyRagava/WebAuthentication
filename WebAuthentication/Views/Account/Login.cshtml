@@ -1,0 +1,15 @@
+﻿
+<h1>Login</h1>
+
+
+@model ApplicationUser
+@{
+    <form asp-antiforgery="true" asp-controller="Account" asp-action="Login">
+        <br />
+        User name: <input name="username" type="text" />
+        Password: <input name="password" type="password" />
+        <input name="submit" value="login" type="submit" />
+        <input type="hidden" name="returnUrl" value="@TempData["returnUrl"]" />
+    </form>
+}
+
