@@ -12953,11 +12953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S533569\\source\\repos\\WebAuthentication\\WebAuthentication\\WebAuthentication.csproj",
+      "projectUniqueName": "C:\\Users\\S533569\\Harshitha_Chetty_Ragava\\44663\\WebAuthentication\\WebAuthentication\\WebAuthentication.csproj",
       "projectName": "WebAuthentication",
-      "projectPath": "C:\\Users\\S533569\\source\\repos\\WebAuthentication\\WebAuthentication\\WebAuthentication.csproj",
+      "projectPath": "C:\\Users\\S533569\\Harshitha_Chetty_Ragava\\44663\\WebAuthentication\\WebAuthentication\\WebAuthentication.csproj",
       "packagesPath": "C:\\Users\\S533569\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S533569\\source\\repos\\WebAuthentication\\WebAuthentication\\obj\\",
+      "outputPath": "C:\\Users\\S533569\\Harshitha_Chetty_Ragava\\44663\\WebAuthentication\\WebAuthentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
